@@ -1,1 +1,60 @@
-<mxfile host="www.draw.io" modified="2019-11-26T03:39:02.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" version="12.3.0" etag="IyCyOAw1zOPmc114NJ8X" type="github"><diagram id="mHeGOHFLV_b5UkS1gVw_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-26T03:45:40.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="Kby7pstcoI43unfzV0O7" version="12.3.0" type="github" pages="1">
+  <diagram id="mHeGOHFLV_b5UkS1gVw_" name="Page-1">
+    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-7" value="查看" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0p7bMCrHkjf7Dxu-zCUa-1" target="0p7bMCrHkjf7Dxu-zCUa-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-1" value="二维码推广码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0p7bMCrHkjf7Dxu-zCUa-3" target="0p7bMCrHkjf7Dxu-zCUa-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-5" value="分享二维码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="0p7bMCrHkjf7Dxu-zCUa-4">
+          <mxGeometry x="0.2364" y="-2" relative="1" as="geometry">
+            <mxPoint x="-23" y="-2" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-3" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="40" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-11" value="签署合同" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0p7bMCrHkjf7Dxu-zCUa-6" target="0p7bMCrHkjf7Dxu-zCUa-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0p7bMCrHkjf7Dxu-zCUa-6" target="0p7bMCrHkjf7Dxu-zCUa-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-6" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="40" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0p7bMCrHkjf7Dxu-zCUa-8" target="0p7bMCrHkjf7Dxu-zCUa-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-8" value="记录查看信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="210" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-9" value="&lt;h1&gt;推广记录&lt;/h1&gt;&lt;p&gt;1、推广码&lt;/p&gt;&lt;p&gt;2、发布信息编号&lt;/p&gt;&lt;p&gt;3、推广人，上级推广人&lt;/p&gt;&lt;p&gt;4、查看房源的人&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="582" y="160" width="190" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-13" value="完成签署" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0p7bMCrHkjf7Dxu-zCUa-10" target="0p7bMCrHkjf7Dxu-zCUa-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-10" value="按房源选择合同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0p7bMCrHkjf7Dxu-zCUa-12" target="0p7bMCrHkjf7Dxu-zCUa-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-12" value="根据房源编号&lt;br&gt;租客编号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0p7bMCrHkjf7Dxu-zCUa-14" value="获取发布信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="520" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
