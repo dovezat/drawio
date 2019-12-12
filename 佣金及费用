@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-12T11:32:56.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="abSPZzptPy-SXiR_8OL-" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-12T11:37:48.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="bqbeXMQ5Gz92G6yVqbZH" version="12.3.9" type="github" pages="1">
   <diagram id="Ks_vLTdVXOIh05n3vmF8" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,8 +38,8 @@
         <mxCell id="J5_wKBNor2WBnwftlj80-6" value="扣减支付手续费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="100" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="J5_wKBNor2WBnwftlj80-9" value="物业公司手续费账户" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="90" width="120" height="80" as="geometry"/>
+        <mxCell id="J5_wKBNor2WBnwftlj80-9" value="物业公司手续费账户" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="160" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="J5_wKBNor2WBnwftlj80-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5_wKBNor2WBnwftlj80-16" target="J5_wKBNor2WBnwftlj80-18">
           <mxGeometry relative="1" as="geometry"/>
@@ -94,6 +94,9 @@
         </mxCell>
         <mxCell id="J5_wKBNor2WBnwftlj80-32" value="平台基本账户" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="874" y="302" width="126" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="J5_wKBNor2WBnwftlj80-37" value="&lt;h1&gt;说明&lt;/h1&gt;&lt;p&gt;1、基本户可以提现，消费，其他账户不行&lt;/p&gt;&lt;p&gt;2、分润账户需要结算后可以提现和消费，目前是按照实时结算，是否需要合并基本户和分润账户？&lt;/p&gt;&lt;p&gt;3、物业公司需要设立基本户提现，管理后台如何提现？&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="540" width="273" height="170" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
