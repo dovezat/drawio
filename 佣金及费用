@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2019-12-12T11:37:48.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="bqbeXMQ5Gz92G6yVqbZH" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-13T01:48:33.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="7MqkwhM8xMdR15gwKdhV" version="12.3.9" type="github" pages="1">
   <diagram id="Ks_vLTdVXOIh05n3vmF8" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="J5_wKBNor2WBnwftlj80-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5_wKBNor2WBnwftlj80-1" target="J5_wKBNor2WBnwftlj80-6">
+        <mxCell id="J5_wKBNor2WBnwftlj80-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5_wKBNor2WBnwftlj80-1" target="J5_wKBNor2WBnwftlj80-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="J5_wKBNor2WBnwftlj80-1" value="完成支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="J5_wKBNor2WBnwftlj80-2" value="触发分润事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="210" width="120" height="60" as="geometry"/>
+          <mxGeometry x="220" y="100" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="J5_wKBNor2WBnwftlj80-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5_wKBNor2WBnwftlj80-4">
           <mxGeometry relative="1" as="geometry">
@@ -23,9 +23,6 @@
         </mxCell>
         <mxCell id="J5_wKBNor2WBnwftlj80-4" value="执行分润规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="210" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="J5_wKBNor2WBnwftlj80-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5_wKBNor2WBnwftlj80-6" target="J5_wKBNor2WBnwftlj80-2">
-          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="J5_wKBNor2WBnwftlj80-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J5_wKBNor2WBnwftlj80-6" target="J5_wKBNor2WBnwftlj80-9">
           <mxGeometry relative="1" as="geometry"/>
@@ -36,10 +33,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J5_wKBNor2WBnwftlj80-6" value="扣减支付手续费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="100" width="120" height="60" as="geometry"/>
+          <mxGeometry x="232.5" y="312" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="J5_wKBNor2WBnwftlj80-9" value="物业公司手续费账户" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="630" y="90" width="160" height="80" as="geometry"/>
+          <mxGeometry y="302" width="160" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="J5_wKBNor2WBnwftlj80-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5_wKBNor2WBnwftlj80-16" target="J5_wKBNor2WBnwftlj80-18">
           <mxGeometry relative="1" as="geometry"/>
@@ -49,8 +46,11 @@
             <mxPoint x="648" y="350" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
+        <mxCell id="J5_wKBNor2WBnwftlj80-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5_wKBNor2WBnwftlj80-16" target="J5_wKBNor2WBnwftlj80-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="J5_wKBNor2WBnwftlj80-16" value="平台规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="320" width="120" height="60" as="geometry"/>
+          <mxGeometry x="420" y="312" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="J5_wKBNor2WBnwftlj80-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5_wKBNor2WBnwftlj80-18" target="J5_wKBNor2WBnwftlj80-24">
           <mxGeometry relative="1" as="geometry"/>
