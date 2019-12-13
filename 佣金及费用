@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-13T01:49:38.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="wUaDYYsLttkhqmQnaVDu" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-13T05:18:29.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="pVmDnMrFbcLjsNHUgOp3" version="12.3.9" type="github" pages="1">
   <diagram id="Ks_vLTdVXOIh05n3vmF8" name="Page-1">
-    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1609" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -35,8 +35,8 @@
         <mxCell id="J5_wKBNor2WBnwftlj80-6" value="扣减支付手续费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="232.5" y="312" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="J5_wKBNor2WBnwftlj80-9" value="物业公司手续费账户" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry y="302" width="160" height="80" as="geometry"/>
+        <mxCell id="J5_wKBNor2WBnwftlj80-9" value="物业公司手续费账户（不记录）" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="302" width="230" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="J5_wKBNor2WBnwftlj80-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5_wKBNor2WBnwftlj80-16" target="J5_wKBNor2WBnwftlj80-18">
           <mxGeometry relative="1" as="geometry"/>
