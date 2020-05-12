@@ -1,17 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2020-05-12T08:02:58.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="ZhXzVk9XlEHFUIthVbxk" version="13.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-12T08:20:50.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="yEC_3j9rGu4zjuJz9ZcI" version="13.0.9" type="github">
   <diagram id="5LZlTyPBAkwx2AwI9NOy" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CE-JVUQtcYNLhDiKW8DJ-1" target="CE-JVUQtcYNLhDiKW8DJ-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CE-JVUQtcYNLhDiKW8DJ-1" value="消息基本信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CE-JVUQtcYNLhDiKW8DJ-2" value="1、消息授权的key&lt;br&gt;2、消息体&lt;br&gt;3、是否有指定通道信息&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="10" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CE-JVUQtcYNLhDiKW8DJ-4" target="CE-JVUQtcYNLhDiKW8DJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CE-JVUQtcYNLhDiKW8DJ-4" value="消息网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="310" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CE-JVUQtcYNLhDiKW8DJ-6" target="CE-JVUQtcYNLhDiKW8DJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-10" value="不使用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CE-JVUQtcYNLhDiKW8DJ-9">
+          <mxGeometry x="-0.2058" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-6" value="检查是否使用模板" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="460" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-11" value="检查是否指定发送通道" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="450" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CE-JVUQtcYNLhDiKW8DJ-13" target="CE-JVUQtcYNLhDiKW8DJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-13" value="国际化拦截器&lt;br&gt;（客户端实现）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CE-JVUQtcYNLhDiKW8DJ-15" target="CE-JVUQtcYNLhDiKW8DJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-15" value="消息过滤器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CE-JVUQtcYNLhDiKW8DJ-17" target="CE-JVUQtcYNLhDiKW8DJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-17" value="接收者过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
