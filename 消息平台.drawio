@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-12T08:29:20.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="Qbiw2vHUwUcR5KMHfJ_t" version="13.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-12T08:33:59.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="vQIUshX3eShuQGNzSZ4H" version="13.0.9" type="github">
   <diagram id="5LZlTyPBAkwx2AwI9NOy" name="Page-1">
-    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,11 +91,14 @@
         <mxCell id="CE-JVUQtcYNLhDiKW8DJ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CE-JVUQtcYNLhDiKW8DJ-27" target="CE-JVUQtcYNLhDiKW8DJ-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-27" value="远程配置模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-27" value="远程配置模板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="460" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CE-JVUQtcYNLhDiKW8DJ-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="67.5" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CE-JVUQtcYNLhDiKW8DJ-31" value="1、服务端需要提模板注册接口&lt;br&gt;2、远程模板更新接口&lt;br&gt;3、模板获取接口&lt;br&gt;4、模板禁用接口&lt;br&gt;5、模板历史&lt;br&gt;6、模板使用及发送消息数据统计" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="630" width="220" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
