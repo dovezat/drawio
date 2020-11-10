@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T02:53:52.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="w-WnlBCpaQ_uHJEZPkH_" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T03:01:30.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="4fweU_X3H_FB46-T_oSC" version="13.9.2" type="github">
   <diagram id="Xb9YHacXH_46VcTU4vqf" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
           <mxGeometry x="220" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJL4mZwbDdtuzIEOGoWh-7" value="龙支付区块链" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="827" y="250" width="143" height="80" as="geometry" />
+          <mxGeometry x="827" y="250" width="153" height="90" as="geometry" />
         </mxCell>
         <mxCell id="nJL4mZwbDdtuzIEOGoWh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nJL4mZwbDdtuzIEOGoWh-8" target="nJL4mZwbDdtuzIEOGoWh-12">
           <mxGeometry relative="1" as="geometry" />
@@ -71,7 +71,7 @@
         <mxCell id="nJL4mZwbDdtuzIEOGoWh-17" value="是否转入龙支付钱包？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="260" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nJL4mZwbDdtuzIEOGoWh-22" value="转入其他区块链" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJL4mZwbDdtuzIEOGoWh-22" value="转入龙支付区块链" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
