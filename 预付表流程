@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T05:23:39.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" version="14.1.8" etag="E4-oHGS6zY3ul6rM1DSd" type="github"><diagram id="_UgTMv8YYQ4jPNXn0PnX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-14T05:29:29.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="qDj98JZUQFKoRIVfiqQp" version="14.1.8" type="github">
+  <diagram id="_UgTMv8YYQ4jPNXn0PnX" name="Page-1">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y8iIBwrBlBkICLeQKrjf-1" target="y8iIBwrBlBkICLeQKrjf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-1" value="充值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y8iIBwrBlBkICLeQKrjf-2" target="y8iIBwrBlBkICLeQKrjf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y8iIBwrBlBkICLeQKrjf-2" target="y8iIBwrBlBkICLeQKrjf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-2" value="充值方式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y8iIBwrBlBkICLeQKrjf-3" target="y8iIBwrBlBkICLeQKrjf-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-3" value="IC卡充值" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="294" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y8iIBwrBlBkICLeQKrjf-6" target="y8iIBwrBlBkICLeQKrjf-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-6" value="远程充值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y8iIBwrBlBkICLeQKrjf-9" target="y8iIBwrBlBkICLeQKrjf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-9" value="选择充值表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-12" value="&lt;h1&gt;充值仪表&lt;/h1&gt;&lt;p&gt;1、房间信息&lt;/p&gt;&lt;p&gt;2、仪表信息&lt;/p&gt;&lt;p&gt;3、缴费人信息&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y8iIBwrBlBkICLeQKrjf-15" target="y8iIBwrBlBkICLeQKrjf-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-15" value="客户端软件充值完成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y8iIBwrBlBkICLeQKrjf-17" target="y8iIBwrBlBkICLeQKrjf-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-17" value="记录充值信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-20" value="记录充值信息&lt;br&gt;（充值成功）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8iIBwrBlBkICLeQKrjf-22" value="执行远传充值命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="680" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
