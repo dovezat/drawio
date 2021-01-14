@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T05:33:53.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="OV8BCtQ2IsHvookTeQko" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T05:34:29.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="iZvicfDV2qywvP-Nioh3" version="14.1.8" type="github">
   <diagram id="_UgTMv8YYQ4jPNXn0PnX" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y8iIBwrBlBkICLeQKrjf-25" value="记录充值信息&lt;br&gt;（返回充值成功信息）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="137.5" y="670" width="132.5" height="60" as="geometry" />
+          <mxGeometry x="136.5" y="670" width="132.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y8iIBwrBlBkICLeQKrjf-27" value="完成充值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="770" width="120" height="60" as="geometry" />
