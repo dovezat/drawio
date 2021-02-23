@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T07:01:56.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74" etag="vgbh5CHXz4CF8jlMbrsx" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-23T07:03:43.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74" etag="h9cLfBSpIsmjwdtDvDpO" version="14.2.9" type="github">
   <diagram id="0dne7P4TrNjrY1poHMB3" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,31 @@
         <mxCell id="6k3VxsIg6Jzqd3Izrozh-1" value="浏览淘宝/拼多多" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6k3VxsIg6Jzqd3Izrozh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6k3VxsIg6Jzqd3Izrozh-2" target="6k3VxsIg6Jzqd3Izrozh-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6k3VxsIg6Jzqd3Izrozh-2" value="选择合适的商品通过插件加入购物车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6k3VxsIg6Jzqd3Izrozh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6k3VxsIg6Jzqd3Izrozh-5" target="6k3VxsIg6Jzqd3Izrozh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6k3VxsIg6Jzqd3Izrozh-5" value="选择要购买的商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6k3VxsIg6Jzqd3Izrozh-6" value="可能存在过期问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="394" y="200" width="116" as="geometry" />
+        </mxCell>
+        <mxCell id="6k3VxsIg6Jzqd3Izrozh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6k3VxsIg6Jzqd3Izrozh-7" target="6k3VxsIg6Jzqd3Izrozh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6k3VxsIg6Jzqd3Izrozh-7" value="订单预览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6k3VxsIg6Jzqd3Izrozh-9" value="选择送货地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
