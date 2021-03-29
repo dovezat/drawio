@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T02:02:24.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="C1MrvlBQl9INwDxFk63h" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-29T02:10:12.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="vsX7KEEmzwiVj9ojailQ" version="14.4.2" type="github">
   <diagram id="0dne7P4TrNjrY1poHMB3" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
             <mxPoint x="320" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QJwKzfLJC7yFBjEb6GVd-1" value="海淘操作员根据订单信息到淘宝下单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-1" value="海淘操作员根据订单信息到淘宝下单。需要在淘宝备注海淘订单编号（复制）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="700" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QJwKzfLJC7yFBjEb6GVd-5" value="淘宝配送" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QJwKzfLJC7yFBjEb6GVd-3" target="QJwKzfLJC7yFBjEb6GVd-4">
