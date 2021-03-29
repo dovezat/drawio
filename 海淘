@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T01:50:17.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="XJj-Jj5UMddDs38PLCES" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-29T02:00:11.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="OuXN6wAPGMUL0Yu6_dGW" version="14.4.2" type="github">
   <diagram id="0dne7P4TrNjrY1poHMB3" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,23 +45,63 @@
         <mxCell id="6k3VxsIg6Jzqd3Izrozh-11" value="选择收货方式:自提/送货上门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="260" y="470" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6k3VxsIg6Jzqd3Izrozh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6k3VxsIg6Jzqd3Izrozh-13" target="6k3VxsIg6Jzqd3Izrozh-15" edge="1">
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6k3VxsIg6Jzqd3Izrozh-13" target="QJwKzfLJC7yFBjEb6GVd-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6k3VxsIg6Jzqd3Izrozh-13" value="提交订单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="260" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6k3VxsIg6Jzqd3Izrozh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6k3VxsIg6Jzqd3Izrozh-15" target="6k3VxsIg6Jzqd3Izrozh-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6k3VxsIg6Jzqd3Izrozh-15" value="暂时人工代购&lt;br&gt;填写物流单号" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="660" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6k3VxsIg6Jzqd3Izrozh-17" value="用户确认收货/或者自动确认" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="6k3VxsIg6Jzqd3Izrozh-17" value="用户确认收货/或者自动确认" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="268" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6k3VxsIg6Jzqd3Izrozh-20" value="地址编辑功能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="390" width="86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QJwKzfLJC7yFBjEb6GVd-1" target="QJwKzfLJC7yFBjEb6GVd-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-1" value="海淘操作员根据订单信息到淘宝下单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="260" y="700" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-5" value="淘宝配送" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QJwKzfLJC7yFBjEb6GVd-3" target="QJwKzfLJC7yFBjEb6GVd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-3" value="管理后台录入淘宝订单编号，更新订单状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="260" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-7" value="发货记录跟踪" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QJwKzfLJC7yFBjEb6GVd-4" target="QJwKzfLJC7yFBjEb6GVd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-4" value="到达广州物流中心&lt;br&gt;更新订单状态，记录跟踪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="258" y="980" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QJwKzfLJC7yFBjEb6GVd-6" target="6k3VxsIg6Jzqd3Izrozh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-9" value="发货记录跟踪" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QJwKzfLJC7yFBjEb6GVd-8">
+          <mxGeometry x="-0.2333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-6" value="金边分拣仓库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="252" y="1100" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontColor=#FF6666;" edge="1" parent="1" source="QJwKzfLJC7yFBjEb6GVd-11" target="QJwKzfLJC7yFBjEb6GVd-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-11" value="用户根据界面提示进行转账。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF6666;labelBorderColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="450" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#FF6666;" edge="1" parent="1" source="QJwKzfLJC7yFBjEb6GVd-14" target="QJwKzfLJC7yFBjEb6GVd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-14" value="海淘操作员确认收款成功" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="450" y="705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-17" value="转账需要备注相关信息" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontStyle=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="610" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
