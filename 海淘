@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T02:00:55.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="7xin15aVGY0Ohm3O_gM3" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-29T02:02:01.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="P_SUqClbhN5vgoXvhNsz" version="14.4.2" type="github">
   <diagram id="0dne7P4TrNjrY1poHMB3" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,8 +100,8 @@
         <mxCell id="QJwKzfLJC7yFBjEb6GVd-14" value="海淘操作员确认收款成功" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="450" y="705" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QJwKzfLJC7yFBjEb6GVd-17" value="转账需要备注相关信息" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontStyle=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="610" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="QJwKzfLJC7yFBjEb6GVd-19" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;转账需要备注相关信息&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="580" y="575" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
