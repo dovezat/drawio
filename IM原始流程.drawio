@@ -1,1 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T04:54:49.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" version="15.8.2" etag="fqZAahhyItg6SNaBfOF2" type="github"><diagram id="ffTTmMqS5Z0PGi2IhsT7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-07T05:02:45.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="my5NMJN5eacL3l6_D0Bk" version="15.8.2" type="github">
+  <diagram id="ffTTmMqS5Z0PGi2IhsT7" name="Page-1">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q_lDGoC4bMU8ytKsrpr3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q_lDGoC4bMU8ytKsrpr3-19" target="Q_lDGoC4bMU8ytKsrpr3-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_lDGoC4bMU8ytKsrpr3-19" value="发送消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_lDGoC4bMU8ytKsrpr3-32" value="f否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q_lDGoC4bMU8ytKsrpr3-28" target="Q_lDGoC4bMU8ytKsrpr3-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_lDGoC4bMU8ytKsrpr3-28" value="是否发送成功？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_lDGoC4bMU8ytKsrpr3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q_lDGoC4bMU8ytKsrpr3-31" target="Q_lDGoC4bMU8ytKsrpr3-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_lDGoC4bMU8ytKsrpr3-31" value="客户端重新发送" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#DB5858;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
