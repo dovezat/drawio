@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T03:55:16.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="oWPEAsLNACggtPAAUNTU" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T03:55:55.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="OXg2VvXelDgQFuluvO9L" version="18.0.3" type="github">
   <diagram id="fPDhReRPAme99BJQwYK9" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="zaFiIXA9nG1pKAVqpKBD-32" value="转账" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zaFiIXA9nG1pKAVqpKBD-34" value="&lt;h1&gt;软件配置&lt;/h1&gt;&lt;p&gt;1、软件启动密码设置&lt;/p&gt;&lt;p&gt;2、软件API启动端口，默认9000（api需要限制，只允许本机访问，需要支持跨域）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zaFiIXA9nG1pKAVqpKBD-34" value="&lt;h1&gt;软件配置&lt;/h1&gt;&lt;p&gt;1、软件启动密码设置&lt;/p&gt;&lt;p&gt;2、软件API启动端口，默认9000（api需要限制，只允许本机访问，需要支持跨域）&lt;/p&gt;&lt;p&gt;3、小额免密支付限制：小于300TRX&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="260" height="170" as="geometry" />
         </mxCell>
       </root>
