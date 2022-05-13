@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T03:49:04.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="14AUIOckBzFgr_BwWg7W" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T03:51:14.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="m6SeVfWz6bDns8RKnEdb" version="18.0.3" type="github">
   <diagram id="fPDhReRPAme99BJQwYK9" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,10 +59,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zaFiIXA9nG1pKAVqpKBD-17" value="输入助记词或者私钥（允许输入多个）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="475" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="475" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zaFiIXA9nG1pKAVqpKBD-23" value="生成钱包" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="zaFiIXA9nG1pKAVqpKBD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zaFiIXA9nG1pKAVqpKBD-23" target="zaFiIXA9nG1pKAVqpKBD-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zaFiIXA9nG1pKAVqpKBD-23" value="生成钱包（AES加密）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="780" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zaFiIXA9nG1pKAVqpKBD-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zaFiIXA9nG1pKAVqpKBD-25" target="zaFiIXA9nG1pKAVqpKBD-27">
           <mxGeometry relative="1" as="geometry" />
@@ -70,8 +73,14 @@
         <mxCell id="zaFiIXA9nG1pKAVqpKBD-25" value="是否有多个钱包U盘" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="67.5" y="490" width="125" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="zaFiIXA9nG1pKAVqpKBD-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zaFiIXA9nG1pKAVqpKBD-27" target="zaFiIXA9nG1pKAVqpKBD-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zaFiIXA9nG1pKAVqpKBD-27" value="输入钱包密码" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zaFiIXA9nG1pKAVqpKBD-29" value="启动HTTP API服务接口" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="780" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
