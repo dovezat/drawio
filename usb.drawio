@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T03:40:09.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="n5uvmxSnXXcbhoGYRvdx" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T03:44:04.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="hCBmhmbOwReR_owwVXAT" version="18.0.3" type="github">
   <diagram id="fPDhReRPAme99BJQwYK9" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zaFiIXA9nG1pKAVqpKBD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zaFiIXA9nG1pKAVqpKBD-4" target="zaFiIXA9nG1pKAVqpKBD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zaFiIXA9nG1pKAVqpKBD-4" value="&lt;span style=&quot;&quot;&gt;检测是否有插入U盘&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="190" width="130" height="80" as="geometry" />
         </mxCell>
@@ -30,6 +33,27 @@
         </mxCell>
         <mxCell id="zaFiIXA9nG1pKAVqpKBD-6" value="提示未找到钱包" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zaFiIXA9nG1pKAVqpKBD-13" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zaFiIXA9nG1pKAVqpKBD-10" target="zaFiIXA9nG1pKAVqpKBD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zaFiIXA9nG1pKAVqpKBD-10" value="遍历U盘是否已经存在钱包加密文件" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="350" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zaFiIXA9nG1pKAVqpKBD-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zaFiIXA9nG1pKAVqpKBD-12" target="zaFiIXA9nG1pKAVqpKBD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zaFiIXA9nG1pKAVqpKBD-12" value="提示开始制作钱包" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zaFiIXA9nG1pKAVqpKBD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zaFiIXA9nG1pKAVqpKBD-14" target="zaFiIXA9nG1pKAVqpKBD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zaFiIXA9nG1pKAVqpKBD-14" value="输入钱包密码" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zaFiIXA9nG1pKAVqpKBD-17" value="输入助记词或者私钥" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
