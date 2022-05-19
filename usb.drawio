@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T03:03:53.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="XQ6QK_q3KJyivMHJ1N4U" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-19T03:04:45.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="UeHSCEFpJe39HemrgtZp" version="18.0.5" type="github">
   <diagram id="fPDhReRPAme99BJQwYK9" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="To-tUrie1UpzVCq_ssf6-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="To-tUrie1UpzVCq_ssf6-20" target="To-tUrie1UpzVCq_ssf6-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="To-tUrie1UpzVCq_ssf6-20" value="配置订单服务地址" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="To-tUrie1UpzVCq_ssf6-20" value="配置订单服务地址&lt;br&gt;api=&lt;br&gt;appId=" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430.61" y="920" width="159.39" height="60" as="geometry" />
         </mxCell>
         <mxCell id="To-tUrie1UpzVCq_ssf6-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="To-tUrie1UpzVCq_ssf6-22" target="To-tUrie1UpzVCq_ssf6-25">
