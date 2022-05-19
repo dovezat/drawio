@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T03:10:01.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="jOu_diYFGErVddYR7xF4" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-19T03:10:07.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="C7qOsW4663tYTvIpSOKN" version="18.0.5" type="github">
   <diagram id="fPDhReRPAme99BJQwYK9" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
           <mxGeometry x="460" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="To-tUrie1UpzVCq_ssf6-34" value="&lt;h1&gt;说明&lt;/h1&gt;&lt;p&gt;1、软件启动自动识别U盘，需要输入密码验证（目前一个U盘暂支持一个钱包存储，可以存储多个账户地址）&lt;/p&gt;&lt;p&gt;2、钱包密码丢失后不可以恢复，用户需要自行保管，API私钥也是采用钱包密码加密，丢失后同样不可以恢复。密码丢失后所有的配置都需要重新保存。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="70" width="240" height="230" as="geometry" />
+          <mxGeometry x="460" y="70" width="240" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
