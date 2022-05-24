@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T02:37:24.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="xlL9KWQBwDf8DfOkZ2w4" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T02:37:56.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="fDxRbvggim8J1eaIx9_a" version="18.0.8" type="github">
   <diagram id="fPDhReRPAme99BJQwYK9" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,11 +135,17 @@
         <mxCell id="To-tUrie1UpzVCq_ssf6-30" value="按照账户优先级和余额选择采用的账户转账" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="To-tUrie1UpzVCq_ssf6-32" value="转账完成后提交订单服务器，更新状态" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Kg0lx0M9-tWQRrdvVJpj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="To-tUrie1UpzVCq_ssf6-32" target="Kg0lx0M9-tWQRrdvVJpj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="To-tUrie1UpzVCq_ssf6-32" value="提交数据校验订单" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="To-tUrie1UpzVCq_ssf6-34" value="&lt;h1&gt;说明&lt;/h1&gt;&lt;p&gt;1、软件启动自动识别U盘，需要输入密码验证（目前一个U盘暂支持一个钱包存储，可以存储多个账户地址）&lt;/p&gt;&lt;p&gt;2、钱包密码丢失后不可以恢复，用户需要自行保管，API私钥也是采用钱包密码加密，丢失后同样不可以恢复。密码丢失后所有的配置都需要重新保存。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="70" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Kg0lx0M9-tWQRrdvVJpj-1" value="&lt;span style=&quot;&quot;&gt;转账完成后提交订单服务器，更新状态&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
