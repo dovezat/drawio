@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T05:24:13.489Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="Fi34IPTxuyhuJB4wJmUW" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T05:24:35.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="-5Djqsp-QSL232dhJYcI" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1861" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,11 +163,8 @@
         <mxCell id="F3JRNfg1lMUskxYJxzfs-59" value="B撤销交易" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;fillColor=#FF8000;rounded=1;glass=0;strokeWidth=1;shadow=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="735" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F3JRNfg1lMUskxYJxzfs-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F3JRNfg1lMUskxYJxzfs-71" target="F3JRNfg1lMUskxYJxzfs-59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="F3JRNfg1lMUskxYJxzfs-71" value="&lt;b&gt;B在任何阶段都可以撤销交易，A需要撤销交易必须经过B统一或者客户同意&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="357.5" y="840" width="240" height="30" as="geometry" />
+        <mxCell id="F3JRNfg1lMUskxYJxzfs-71" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;B在任何阶段都可以撤销交易，A需要撤销交易必须经过B统一或者客户同意&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="810" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
